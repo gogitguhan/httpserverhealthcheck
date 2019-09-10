@@ -1,4 +1,7 @@
 #!/bin/bash
+# Guhan Sivaji - 27/Sep/2018
+# To check the health of http servers step by step (host level, app server level & application level)
+
 result=
 geturl=
 RED='\033[0;31m'
